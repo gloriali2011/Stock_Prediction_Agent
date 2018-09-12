@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="757adc34-dd42-4562-ae66-4abebeeeae9e" name="Default Changelist" comment="" />
+    <list default="true" id="757adc34-dd42-4562-ae66-4abebeeeae9e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pics/Q Learning 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/Q Learning 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/Q Learning 3.png" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/Q-learning_Example.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="791">
-              <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+              <caret line="96" selection-start-line="96" selection-end-line="96" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -231,7 +235,7 @@
     <entry file="file://$PROJECT_DIR$/Q-learning_Example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="791">
-          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
